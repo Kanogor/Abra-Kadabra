@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Abra-Kadabra</string>
     <string name="omg_what_is_that">OMG, What is That</string>
+    <string name="ok_here_we_go">OK, here we go</string>
+    <string name="loading">Loading: %d%%</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
+    <string name="button_three">Button Three</string>
+    <string name="menu">MENU</string>
+    <string name="hello_funny_animation">Hello, funny animation!</string>
+    <string name="todo">TODO</string>
 </resources>
