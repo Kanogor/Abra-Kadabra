@@ -41,7 +41,6 @@
         app:layout_constraintTop_toBottomOf="@id/top_text"
         app:trackColor="@color/white" />
 
-
     <LinearLayout
         android:id="@+id/revealLayout"
         android:layout_width="match_parent"
@@ -88,6 +87,5 @@
             android:textColor="@color/black" />
 
     </LinearLayout>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
