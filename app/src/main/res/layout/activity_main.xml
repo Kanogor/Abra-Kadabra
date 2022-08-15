@@ -11,7 +11,6 @@
         android:id="@+id/top_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/omg_what_is_that"
         android:fontFamily="@font/pro_medium_italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -69,7 +68,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/white"
-            android:text="@string/button_one"
+            android:text="@string/to_retrofit_example"
             android:textColor="@color/black" />
 
         <Button
